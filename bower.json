@@ -1,0 +1,19 @@
+{
+  "name": "comp2068compcom",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Caleb Annunziello <cannunziello@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cannunzie/comp2068-w2016-lesson3",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
